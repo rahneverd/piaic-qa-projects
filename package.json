@@ -1,0 +1,29 @@
+{
+  "name": "piaic-qa-projects",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahneverd/piaic-qa-projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahneverd/piaic-qa-projects/issues"
+  },
+  "homepage": "https://github.com/rahneverd/piaic-qa-projects#readme",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.4"
+  }
+}
